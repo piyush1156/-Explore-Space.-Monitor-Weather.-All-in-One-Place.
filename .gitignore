@@ -1,0 +1,8 @@
+*.py[cod]
+*$py.class
+__pycache__/
+*.so
+.env
+shino_memory.db
+chroma_db/
+shino.log
